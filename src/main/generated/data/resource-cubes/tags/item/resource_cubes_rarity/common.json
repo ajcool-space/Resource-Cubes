@@ -1,0 +1,8 @@
+{
+  "values": [
+    "minecraft:nether_gold_ore",
+    "minecraft:sculk",
+    "#minecraft:copper_ores",
+    "#minecraft:iron_ores"
+  ]
+}

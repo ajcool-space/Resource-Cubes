@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "resource-cubes",
+  "version": "${version}",
+  "name": "Resource Cubes",
+  "description": "Passive resource farming with Sulfur Cubes.",
+  "authors": ["Ajcool"],
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "space.ajcool.resourcecubes.ResourceCubes"
+    ],
+    "fabric-datagen": [
+      "space.ajcool.resourcecubes.datagen.ResourceCubesDataGenerator"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  },
+  "mixins": [
+    "resource_cubes.mixins.json"
+  ]
+}

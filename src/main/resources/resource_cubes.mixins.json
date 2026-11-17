@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "space.ajcool.resourcecubes.mixins",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "SulfurCubeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

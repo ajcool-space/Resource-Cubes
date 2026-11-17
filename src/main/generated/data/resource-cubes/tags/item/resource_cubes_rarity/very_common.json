@@ -1,0 +1,12 @@
+{
+  "values": [
+    "minecraft:clay",
+    "minecraft:nether_quartz_ore",
+    "minecraft:melon",
+    "minecraft:gravel",
+    "minecraft:brown_mushroom_block",
+    "minecraft:red_mushroom_block",
+    "#minecraft:leaves",
+    "#minecraft:coal_ores"
+  ]
+}

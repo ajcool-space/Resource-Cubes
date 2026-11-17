@@ -1,0 +1,11 @@
+{
+  "values": [
+    "#resource-cubes:resource_cubes_rarity/very_common",
+    "#resource-cubes:resource_cubes_rarity/common",
+    "#resource-cubes:resource_cubes_rarity/uncommon",
+    "#resource-cubes:resource_cubes_rarity/rare",
+    "#resource-cubes:resource_cubes_rarity/very_rare",
+    "minecraft:bee_nest",
+    "minecraft:beehive"
+  ]
+}
